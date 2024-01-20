@@ -9,12 +9,12 @@ This program prints the numbers 1 to 4 on the same line by these three methods:
 
 int main()
 {
-    //with no conversion specifiers
+    // with no conversion specifiers
     printf("1\t2\t3\t4");
 
     printf("\n");
 
-    //with four printf statement
+    // with four printf statement
     printf("1\t");
     printf("2\t");
     printf("3\t");
@@ -22,8 +22,8 @@ int main()
 
     printf("\n");
 
-    //with four conversion specifiers
-    printf("%d\t%d\t%d\t%d\t",1, 2, 3, 4);
+    // with four conversion specifiers
+    printf("%d\t%d\t%d\t%d\t", 1, 2, 3, 4);
 
     return 0;
 }
