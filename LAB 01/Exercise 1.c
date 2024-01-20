@@ -4,7 +4,7 @@
 (This Program print the given shapes using simple printf function). */
 int main()
 {
-    //Print shapes using simple printf statements
+    // Print shapes using simple printf statements
     printf("Exercise 1\n");
 
     //(1)
