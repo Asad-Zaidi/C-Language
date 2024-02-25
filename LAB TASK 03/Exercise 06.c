@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /* This program is prepared by Syed Asad Jamil. Reg no. SP22-BSE-123. Section: B on 29/03/2022.
-(This Program input each salesperson’s sales for the previous week and print out their salary). */
+(This Program input each salespersonï¿½s sales for the previous week and print out their salary). */
 
 int main()
 {
-
     float sales, salary;
 
     printf("Enter sales in pounds (-1 to end) : ");

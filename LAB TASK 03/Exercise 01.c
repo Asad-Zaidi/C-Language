@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main()
 {
     float litre, km, LP100, total, avg = 0;
