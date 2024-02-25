@@ -5,16 +5,15 @@
 
 int main()
 {
-    int i=1, sum=0, num=30;
-    while(i<=30)
+    int i = 1, sum = 0, num = 30;
+    while (i <= 30)
     {
         i++;
-        if(i%2==0) //when even number is divided by 2 remainder is zero.
-        sum = sum+i; //add the value of sum to i at each iteration.
+        if (i % 2 == 0)    // when even number is divided by 2 remainder is zero.
+            sum = sum + i; // add the value of sum to i at each iteration.
     }
 
-    printf("Sum of Even Integer is : %d\n",sum);
+    printf("Sum of Even Integer is : %d\n", sum);
 
     return 0;
 }
-
